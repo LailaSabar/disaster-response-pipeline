@@ -9,14 +9,14 @@ This project will include a web app where an emergency worker can input a new me
 
 ## Table of Contents
 
-- [Project Components](#component)
-   - [ETL Pipeline](#etl)
-   - [ML Pipeline](#ml)
-   - [Flask Web App](#flask)
-- [Content](#content)
-- [Screenshots](#screen)
-- [Instructions](#inst)
-- [Credits and Acknowledgements](#credits)
+- [1. Project Components](#component)
+   - [1.1 ETL Pipeline](#etl)
+   - [1.2 ML Pipeline](#ml)
+   - [1.3 Flask Web App](#flask)
+- [2. Content](#content)
+- [3. Screenshots](#screen)
+- [4. Instructions](#inst)
+- [5. Credits and Acknowledgements](#credits)
 
 ***
 
@@ -66,31 +66,31 @@ There are three components of this project:
 
 &nbsp;
   &nbsp;
-![Drag Racing](images/Capture2.JPG)
+![Drag Racing](screenshots/Capture2.JPG)
 
 &nbsp;
 
 &nbsp;
   &nbsp;
-![Drag Racing](images/Capture1.JPG)
+![Drag Racing](screenshots/Capture1.JPG)
 
 &nbsp;
 
 &nbsp;
   &nbsp;
-![Drag Racing](images/Capture3.JPG)
+![Drag Racing](screenshots/Capture3.JPG)
 
 &nbsp;
 
 &nbsp;
   &nbsp;
-![Drag Racing](images/Capture4.JPG)
+![Drag Racing](screenshots/Capture4.JPG)
 
 &nbsp;
 
 &nbsp;
   &nbsp;
-![Drag Racing](images/Capture5.JPG)
+![Drag Racing](screenshots/Capture5.JPG)
 
 &nbsp;
 
