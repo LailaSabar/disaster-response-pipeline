@@ -1,5 +1,5 @@
-# Disaster Response Pipeline Project 
-### (Udacity Data Science Nanodegree)
+# Disaster Response Pipeline Project ### (Udacity Data Science Nanodegree)
+
 
 In this project, I'll be applying data engineering skills to analyze disaster data from Figure Eight to build a model and classify disaster messages.
 
